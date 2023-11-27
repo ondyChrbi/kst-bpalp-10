@@ -1,4 +1,4 @@
-package cz.fei.upce.cv11.validator;
+package cz.fei.upce.cv10.validator;
 
 public class JeVetsiNezValidator implements Validator {
     private final String jmenoParametru;

@@ -1,4 +1,4 @@
-package cz.fei.upce.cv11.validator;
+package cz.fei.upce.cv10.validator;
 
 public interface Validator {
     boolean validuj();

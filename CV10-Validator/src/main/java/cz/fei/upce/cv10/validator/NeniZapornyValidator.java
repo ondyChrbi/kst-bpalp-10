@@ -1,4 +1,4 @@
-package cz.fei.upce.cv11.validator;
+package cz.fei.upce.cv10.validator;
 
 public class NeniZapornyValidator implements Validator {
     private final int validovaneCislo;
